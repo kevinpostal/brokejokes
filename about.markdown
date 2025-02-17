@@ -32,9 +32,9 @@ At Broke Jokes, we've turned financial frustration into an art form. Our content
 ## Join the Broke(n) & Beautiful Crew
 
 We're building a community where:
-{% include elements/icon.html icon="💰" %} "Broke" isn't a dirty word  
-{% include elements/icon.html icon="📈" %} Small wins get big celebrations  
-{% include elements/icon.html icon="🤝" %} No one judges your thrift store finds
+- 💰 "Broke" isn't a dirty word  
+- 📈 Small wins get big celebrations  
+- 🤝 No one judges your thrift store finds
 
 Catch our chaotic energy on:
 - 🎥 YouTube: Tutorials & sketch comedy
