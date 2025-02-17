@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
+background: 'banner.jpg'
 ---
 
 # When Life Gives You Lemons... Make Free Lemonade
