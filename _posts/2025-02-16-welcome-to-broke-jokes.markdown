@@ -4,6 +4,7 @@ title:  "Welcome to Broke Jokes!"
 subtitle: "Where Ramen Noodles Meet Roasts"
 date:   2025-02-16 16:31:34 -0800
 categories: broke-life humor
+background: 'assets/coin.png'
 ---
 
 Hey there, fellow budget warrior! 👋
