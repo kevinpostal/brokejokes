@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
-background: 'assets/coin.png'
+background: '/assets/coin.png'
 ---
 
 # When Life Gives You Lemons... Make Free Lemonade
