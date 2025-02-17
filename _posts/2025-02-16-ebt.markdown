@@ -4,7 +4,7 @@ title:  "How to Get EBT in California: A Broke Person’s Guide to Free Grocery 
 subtitle: "Because Ramen Gets Old After 300 Meals"
 date:   2025-02-16 16:31:34 -0800
 categories: broke-life adulting money-hacks
-background: 'assets/money.jpg'
+background: '/assets/money.jpg'
 ---
 
 Let’s be real: Being broke in California is like playing life on “expert mode.” Between avocado toast inflation and rent that costs more than a spaceship lease, we all need a little help keeping our pantries stocked. Enter **EBT** – the Golden State’s way of saying, “Here’s a snack, go survive another day.”
